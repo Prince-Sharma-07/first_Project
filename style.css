@@ -4,3 +4,16 @@ body{
     font-size: large;
     font-style: italic;
 }
+.myButton {
+    color: rgb(255, 255, 255);
+    font-size: 21px; 
+    line-height: 21px;
+    padding: 12px;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
